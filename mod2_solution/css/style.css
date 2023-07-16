@@ -36,6 +36,7 @@ section{
     margin: 0px 10px 20px 10px;
     background-color: #6B6E70;
     border: 1px solid black;
+    overflow: auto;
 }
 
 /**Desktop devices**/

@@ -20,16 +20,22 @@ h2{
     top: 0px;
     width: 150px;
     padding: 10px 5px 10px 5px;
-    background-color: #474B4F;
     border-left: 1px solid black;
     border-bottom: 1px solid black;
 }
-
+#title1{
+    background-color: #6a526e;
+}
+#title2{
+    background-color: #525e6e;
+}
+#title3{
+    background-color: #6e5252;
+}
 .row {
     width: 100%;
     padding: 10px;
 }
-
 section{
     position: relative;
     padding: 45px 20px 20px 20px;
